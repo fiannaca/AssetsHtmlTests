@@ -19,6 +19,8 @@ body {
   -webkit-column-gap: 0.33in;
   -moz-column-gap: 0.33in;
   column-gap: 0.33in;
+  counter-reset: figure;
+  counter-reset: table;
 }
 .footnote {
   float: prince-column-footnote;
